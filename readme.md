@@ -1,23 +1,277 @@
 # Starter Template Django-React
 
-This is a starter template that uses django as a backend and react as the frontend. 
+This is a starter template that uses django (DJR) as a backend and react as the frontend. It is authentication ready. The backend provides authentications tokens (access and refresh) and each request from the frontend goes through an interceptor with Axios
 
 ## Get Started
 
 #### Start the backend
 
 
-* Clone the repository
-* navigate to backend/
-* create and activate a new environment with **python3 venv -m `<name>`**
-* **pip install -r requirements.txt**
-* python3 manage.py runserver
+1. Clone the repository
+1. navigate to backend/
+1. create and activate a new environment with **python3 venv -m `<name>`**
+1. **pip install -r requirements.txt**
+1. python3 manage.py runserver
 
 
 #### Start the frontend
 
-* navigate to frontend/
-* npm start
+1. navigate to frontend/
+1. npm start
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
