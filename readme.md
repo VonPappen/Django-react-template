@@ -8,16 +8,158 @@ This is a starter template that uses django (DJR) as a backend and react as the 
 
 
 1. Clone the repository
-1. navigate to backend/
-1. create and activate a new environment with **python3 venv -m `<name>`**
-1. **pip install -r requirements.txt**
-1. python3 manage.py runserver
+2. navigate to backend/
+3. create and activate a new environment with **python3 venv -m <`name> `**
+4. **pip install -r requirements.txt**
+5. python3 manage.py runserver
 
 
 #### Start the frontend
 
 1. navigate to frontend/
-1. npm start
+2. npm start
+
+
+A super-user has already been created and the credentials are located in the general_info.txt file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
